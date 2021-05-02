@@ -1,4 +1,4 @@
-# Cybersecurity Youtubers
+# Cybersecurity YouTubers
 A list of cybersecurity related YouTube channels.
 
 ## List
