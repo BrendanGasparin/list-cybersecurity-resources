@@ -53,5 +53,5 @@ A list of cybersecurity related YouTube channels.
 [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)  
 [TomNomNom](https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA)  
 [webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg)  
-[Wolfgang's Channel](https://www.youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg)
-[zSecurity](https://www.youtube.com/channel/UCVPjtOVcnKaSRI8IO3KSetA)
+[Wolfgang's Channel](https://www.youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg)  
+[zSecurity](https://www.youtube.com/channel/UCVPjtOVcnKaSRI8IO3KSetA)  
