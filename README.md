@@ -23,6 +23,7 @@ A list of cybersecurity related YouTube channels.
 [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)  
 [Hated One, The](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)  
 [Infinite Logins](https://www.youtube.com/channel/UC_nKukFaGysjMzqMVHEIgxQ)  
+[InsiderPhD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A)  
 [Ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)  
 [ITProTV](https://www.youtube.com/channel/UC-8Ba047kFinfgp3sO53qcA)  
 [Jack Rhysider](https://www.youtube.com/channel/UCMIqrmh2lMdzhlCPK5ahsAg)  
