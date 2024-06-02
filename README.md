@@ -43,6 +43,7 @@ A list of cybersecurity related YouTube channels.
 [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)  
 [Red Team Village](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ)  
 [rey nbows](https://www.youtube.com/channel/UCjK6fF5NCErndCLcBBm1mOA)  
+[Sandra Liu](https://www.youtube.com/channel/UC5qEPWtHLFRIjhW_3xd5g2A): Sandra Liu's channel focuses on the cybersecurity industry, with plenty of information on certifications, building a resume, and vlogs about her career as a cybersecurity professional.
 [SANS Institute](https://www.youtube.com/channel/UC2uPNhGken-ogEpJDi4ly6w)  
 [SecHubb](https://www.youtube.com/channel/UC3GAQgCfYbqbfKuZm9JZPCw)  
 [Security Now](https://www.youtube.com/channel/UCNbqa_9xihC8yaV2o6dlsUg)  
