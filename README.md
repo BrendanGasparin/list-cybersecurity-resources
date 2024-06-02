@@ -29,7 +29,7 @@ A list of cybersecurity related YouTube channels.
 [ITProTV](https://www.youtube.com/channel/UC-8Ba047kFinfgp3sO53qcA)  
 [Jack Rhysider](https://www.youtube.com/channel/UCMIqrmh2lMdzhlCPK5ahsAg)  
 [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw): John Hammond is a hacker and cybersecurity researcher featuring content ranging from hacking and programming tutorials to CTF walkthroughs.  
-[Jon Good](https://www.youtube.com/channel/UCbbBt23LHt4WhjiWh67NJ3w)  
+[Jon Good](https://www.youtube.com/channel/UCbbBt23LHt4WhjiWh67NJ3w): Jon Good has content on cybersecurity career advice, threat intel, cybersecurity technologies, Hack The Box walkthroughs, cybersecurity certifications, and projects for cybersecurity professionals.
 [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)  
 [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw)  
 [Malicious Life](https://www.youtube.com/channel/UCa29xbS4EsCqHDDkQL7jKBA)  
@@ -45,7 +45,7 @@ A list of cybersecurity related YouTube channels.
 [Red Team Village](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ)  
 [rey nbows](https://www.youtube.com/channel/UCjK6fF5NCErndCLcBBm1mOA)  
 [Sandra Liu](https://www.youtube.com/channel/UC5qEPWtHLFRIjhW_3xd5g2A): Sandra Liu's channel focuses on the cybersecurity industry, with plenty of information on certifications, building a resume, getting a job, and vlogs about her career as a cybersecurity professional.  
-[SANS Institute](https://www.youtube.com/channel/UC2uPNhGken-ogEpJDi4ly6w)  
+[SANS Institute](https://www.youtube.com/channel/UC2uPNhGken-ogEpJDi4ly6w): The SANS Institute YouTube channel contains a variety of information on all aspects of cybersecurity, inlcuding talks, career advice, InfoSec topics, and the importance of diversity in the cybersecurity field.  
 [SecHubb](https://www.youtube.com/channel/UC3GAQgCfYbqbfKuZm9JZPCw)  
 [Security Now](https://www.youtube.com/channel/UCNbqa_9xihC8yaV2o6dlsUg)  
 [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)  
