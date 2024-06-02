@@ -1,7 +1,7 @@
-# Cybersecurity YouTubers
-A list of cybersecurity related YouTube channels.
+# Cybersecurity YouTube Channels  
 
-## List
+A curated list of YouTube channels with cybersecurity content.  
+
 [247CTF](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q)  
 [Attack Detect Defend](https://www.youtube.com/channel/UCywP24ly6h6NTusX88TQKTQ)  
 [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)  
