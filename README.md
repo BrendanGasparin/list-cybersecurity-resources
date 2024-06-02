@@ -30,7 +30,7 @@ A list of cybersecurity related YouTube channels.
 [Jack Rhysider](https://www.youtube.com/channel/UCMIqrmh2lMdzhlCPK5ahsAg)  
 [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw): John Hammond is a hacker and cybersecurity researcher featuring content ranging from hacking and programming tutorials to CTF walkthroughs.  
 [Jon Good](https://www.youtube.com/channel/UCbbBt23LHt4WhjiWh67NJ3w): Jon Good has content on cybersecurity career advice, threat intel, cybersecurity technologies, Hack The Box walkthroughs, cybersecurity certifications, and projects for cybersecurity professionals.
-[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)  
+[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): LiverOverflow is a self confessed "wannabe hacker" with a channel hosting CTF writeups, hacking and pentration testing content, bug boungty content, and general cybersecurity information.  
 [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw)  
 [Malicious Life](https://www.youtube.com/channel/UCa29xbS4EsCqHDDkQL7jKBA)  
 [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA)  
