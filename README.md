@@ -9,7 +9,7 @@ A list of cybersecurity related YouTube channels.
 [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)  
 [Cyber Incision](https://www.youtube.com/channel/UCeJRBYVsg9jvNbYOh0Tiutg)  
 [Cyber Insecurity](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)  
-[Cyber Mentor, The](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)  
+[Cyber Mentor, The](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): The Cyber Mentor has a lot of content on ethical hacking, including trimmed-down versions of his paid online courses. He also has content on broader cybersecurity topics.   
 [Cybersecurity Meg](https://www.youtube.com/channel/UCQiE6iIQr9bNSFaYcFgFYGw)  
 [Cyberspatial](https://www.youtube.com/channel/UC9EX_PSbngZP8pkPWSUpPzw)  
 [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w): David Bombal's YouTube channel focuses primarily on hacking and penetration testing, with some additional information on cybersecurity.<br />
