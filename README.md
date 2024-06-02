@@ -21,7 +21,7 @@ A list of cybersecurity related YouTube channels.
 [Grayhat](https://www.youtube.com/channel/UClr7sTa2E8tTASKKsPhX1CA)  
 [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)  
 [Hacksplained](https://www.youtube.com/channel/UCyv6ItVqQPnlFFi2zLxlzXA)  
-[Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)  
+[Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ): Hak5 makes hacking and penetration testing gear, and their channel explores topics related to hacking, penetration testing, and cybersecurity.  
 [Hated One, The](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)  
 [Infinite Logins](https://www.youtube.com/channel/UC_nKukFaGysjMzqMVHEIgxQ)  
 [InsiderPhD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A)  
