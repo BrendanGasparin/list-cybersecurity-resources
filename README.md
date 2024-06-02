@@ -27,7 +27,7 @@ A list of cybersecurity related YouTube channels.
 [Ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)  
 [ITProTV](https://www.youtube.com/channel/UC-8Ba047kFinfgp3sO53qcA)  
 [Jack Rhysider](https://www.youtube.com/channel/UCMIqrmh2lMdzhlCPK5ahsAg)  
-[John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)  
+[John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw): John Hammond is a hacker and cybersecurity researcher featuring content ranging from hacking and programming tutorials to CTF walkthroughs.  
 [Jon Good](https://www.youtube.com/channel/UCbbBt23LHt4WhjiWh67NJ3w)  
 [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)  
 [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw)  
