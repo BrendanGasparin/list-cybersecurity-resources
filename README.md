@@ -2,6 +2,9 @@
 
 A curated list of resources with cybersecurity content.  
 
+## Newsletters  
+[the grugq's newsletter](https://buttondown.email/grugq):  
+
 ## YouTube Channels  
 
 [247CTF](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q)  
