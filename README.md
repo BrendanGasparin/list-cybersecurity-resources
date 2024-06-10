@@ -3,8 +3,12 @@
 A curated list of resources with cybersecurity content.  
 
 ## News  
+[Cyberwire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe): The Cyberwire Daily is an excellent podcast for keeping up to date with the latest in cybersecurity news.  
 [grugq's newsletter, the](https://buttondown.email/grugq):  
 [KrebsonSecurity](https://krebsonsecurity.com/):  
+
+## Podcasts  
+[Cyberwire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe): The Cyberwire Daily is an excellent podcast for keeping up to date with the latest in cybersecurity news.  
 
 ## YouTube Channels  
 
