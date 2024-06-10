@@ -2,8 +2,9 @@
 
 A curated list of resources with cybersecurity content.  
 
-## Newsletters  
-[the grugq's newsletter](https://buttondown.email/grugq):  
+## News  
+[grugq's newsletter, the](https://buttondown.email/grugq):  
+[KrebsonSecurity](https://krebsonsecurity.com/):  
 
 ## YouTube Channels  
 
