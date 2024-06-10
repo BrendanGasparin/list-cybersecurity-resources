@@ -1,6 +1,8 @@
-# Cybersecurity YouTube Channels  
+# Cybersecurity Resources  
 
-A curated list of YouTube channels with cybersecurity content.  
+A curated list of resources with cybersecurity content.  
+
+## YouTube Channels  
 
 [247CTF](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q)  
 [Attack Detect Defend](https://www.youtube.com/channel/UCywP24ly6h6NTusX88TQKTQ)  
