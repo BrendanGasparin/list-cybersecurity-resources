@@ -3,6 +3,7 @@
 A curated list of resources with cybersecurity content.  
 
 ## News  
+[BleepingComputer](https://www.bleepingcomputer.com/): A website dedicated to cybersecurity and technology news and support.  
 [Cyberwire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe): The Cyberwire Daily is an excellent podcast for keeping up to date with the latest in cybersecurity news.  
 [grugq's newsletter, the](https://buttondown.email/grugq):  
 [ISC StormCast](https://isc.sans.edu/podcast.html): ISC StormCast from the SANS Institute.  
