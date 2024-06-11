@@ -8,10 +8,12 @@ A curated list of resources with cybersecurity content.
 [grugq's newsletter, the](https://buttondown.email/grugq):  
 [ISC StormCast](https://isc.sans.edu/podcast.html): ISC StormCast from the SANS Institute.  
 [KrebsonSecurity](https://krebsonsecurity.com/):  
+[Security Now](https://open.spotify.com/show/7vAbYigR3zs8GYJP3EoVWw): A weekly podcast about cybercrime and hacking stories.  
 
 ## Podcasts  
 [Cyberwire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe): The Cyberwire Daily is an excellent podcast for keeping up to date with the latest in cybersecurity news.  
 [ISC StormCast](https://isc.sans.edu/podcast.html): ISC StormCast from the SANS Institute.  
+[Security Now](https://open.spotify.com/show/7vAbYigR3zs8GYJP3EoVWw): A weekly podcast about cybercrime and hacking stories.  
 
 ## YouTube Channels  
 
