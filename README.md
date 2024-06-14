@@ -38,7 +38,7 @@ A curated list of resources with cybersecurity content.
 [Digital Prepper, The](https://www.youtube.com/channel/UCFpToiXK6Z72YU7JFBzC-nQ)  
 [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ): As well as covering cybersecurity topics, Eli the Computer Guy has content on programming, web design, Linux, and networking.  
 [Grayhat](https://www.youtube.com/channel/UClr7sTa2E8tTASKKsPhX1CA)  
-[Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q):  
+[HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q): HackerSploit is an excellent channel with a wealth of information on all things related to hacking and penetration testing.  
 [Hacksplained](https://www.youtube.com/channel/UCyv6ItVqQPnlFFi2zLxlzXA)  
 [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ): Hak5 makes hacking and penetration testing gear, and their channel explores topics related to hacking, penetration testing, and cybersecurity.  
 [Hated One, The](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)  
