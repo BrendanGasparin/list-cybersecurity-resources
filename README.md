@@ -55,7 +55,7 @@ A curated list of resources with cybersecurity content.
 [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA)  
 [Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ)  
 [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)  
-[NetworkChuck](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g): NetworkChuck covers a broad range of IT topics, including cybersecurity and hacking. He is an entertaining individual who makes learning about hacking fun. Remember to make a coffee before watching.    
+[NetworkChuck](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g): NetworkChuck covers a broad range of IT topics, including cybersecurity and hacking. He is an entertaining individual who makes learning about hacking fun. Remember to make a coffee before watching.   
 [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 [OALabs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)  
 [Open SecurityTraining](https://www.youtube.com/channel/UCthV50MozQIfawL9a_g5rdg)  
