@@ -3,7 +3,7 @@
 A curated list of resources with cybersecurity content.  
 
 ## Educational Sites  
-[tryHackMe](https://tryhackme.com): TryHackMe contains "rooms" on various cybersecurity, hacking, computers, and networking topics. Some of the material is free, and some is subscription-based.  
+[tryHackMe](https://tryhackme.com): TryHackMe contains "rooms" on various cybersecurity, hacking, computers, and networking topics. Some of the material is free, and some is subscription-based. An excellent site with learning paths for beginners, intermediate, and advanced learners.  
 
 ## News  
 [BleepingComputer](https://www.bleepingcomputer.com/): A website dedicated to cybersecurity and technology news and support.  
