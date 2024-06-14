@@ -33,6 +33,7 @@ A curated list of resources with cybersecurity content.
 [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)  
 [Destination Certification](https://www.youtube.com/channel/UCXk6whiDrWq42y9Tdv1MEhg)  
 [Digital Prepper, The](https://www.youtube.com/channel/UCFpToiXK6Z72YU7JFBzC-nQ)  
+[Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ): As well as covering cybersecurity topics, Eli the Computer Guy has content on programming, web design, Linux, and networking.  
 [Grayhat](https://www.youtube.com/channel/UClr7sTa2E8tTASKKsPhX1CA)  
 [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)  
 [Hacksplained](https://www.youtube.com/channel/UCyv6ItVqQPnlFFi2zLxlzXA)  
