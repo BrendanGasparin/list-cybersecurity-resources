@@ -31,7 +31,7 @@ A curated list of resources with cybersecurity content.
 [CYBERWOX](https://www.youtube.com/channel/UCY-UlEymdA23eo09U9a0FLA): CYBERWOX has content on cybersecurity topics including breaking into the cybersecurity industry, cybersecurity certifications, a podcast related to cybersecurity stories, and practical content on cybersecurity technologies and training.  
 [Cybersecurity Meg](https://www.youtube.com/channel/UCQiE6iIQr9bNSFaYcFgFYGw)  
 [Cyberspatial](https://www.youtube.com/channel/UC9EX_PSbngZP8pkPWSUpPzw)  
-[David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w): David Bombal's YouTube channel focuses primarily on hacking and penetration testing, with some additional information on cybersecurity.<br />
+[David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w): David Bombal's YouTube channel focuses primarily on hacking and penetration testing, with some additional information on cybersecurity.  
 [DAY\[0\]](https://www.youtube.com/channel/UCXFC76FDHZRVes6_lZqwLBA)  
 [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)  
 [Destination Certification](https://www.youtube.com/channel/UCXk6whiDrWq42y9Tdv1MEhg)  
