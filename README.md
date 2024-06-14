@@ -2,6 +2,9 @@
 
 A curated list of resources with cybersecurity content.  
 
+## Educational Sites  
+[tryHackMe](https://tryhackme.com): TryHackMe contains "rooms" on various cybersecurity, hacking, computers, and networking topics. Some of the material is free, and some is subscription-based.  
+
 ## News  
 [BleepingComputer](https://www.bleepingcomputer.com/): A website dedicated to cybersecurity and technology news and support.  
 [Cyberwire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe): The Cyberwire Daily is an excellent podcast for keeping up to date with the latest in cybersecurity news.  
@@ -35,7 +38,7 @@ A curated list of resources with cybersecurity content.
 [Digital Prepper, The](https://www.youtube.com/channel/UCFpToiXK6Z72YU7JFBzC-nQ)  
 [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ): As well as covering cybersecurity topics, Eli the Computer Guy has content on programming, web design, Linux, and networking.  
 [Grayhat](https://www.youtube.com/channel/UClr7sTa2E8tTASKKsPhX1CA)  
-[Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)  
+[Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q):  
 [Hacksplained](https://www.youtube.com/channel/UCyv6ItVqQPnlFFi2zLxlzXA)  
 [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ): Hak5 makes hacking and penetration testing gear, and their channel explores topics related to hacking, penetration testing, and cybersecurity.  
 [Hated One, The](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)  
