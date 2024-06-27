@@ -4,7 +4,7 @@ A curated list of resources with cybersecurity content.
 
 ## Educational Sites  
 [Cybrary](https://cybrary.it/): Cybrary contains a mixture of free and subscription-based content focused on a broad range of cybersecurity related topics.  
-[LetsDefend](https://letsdefend.io/):
+[LetsDefend](https://letsdefend.io/):  
 [tryHackMe](https://tryhackme.com): TryHackMe contains "rooms" on various cybersecurity, hacking, computers, and networking topics. Some of the material is free, and some is subscription-based. An excellent site with learning paths for beginners, intermediate, and advanced learners.  
 
 ## News  
