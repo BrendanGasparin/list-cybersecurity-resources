@@ -31,7 +31,7 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 [DEFCON](https://defcon.org/): DEFCON is a popular conference on hacking and cybersecurity. It is a great place to network professionally and learn from other people in the cybersecurity industry.  
 [Hackerspaces](https://hackerspaces.org/): Hackerspaces maintains a database of hackerspaces around the world so that you can meet up locally with like-minded hackers, makers, and other types of creators.  
 [ISACA](https://www.isaca.org/): You can become a member of ISACA without being certified.  
-[ISC2](https://www.isc2.org/): In order to become a member of ISC2 you must complete one of their certifications. Otherwise you must pay a fee, or a higher fee, to attend events.  
+[ISC2](https://www.isc2.org/): In order to become a member of ISC2 you must complete one of their certifications. Otherwise you must pay a fee, or a higher fee than members, to attend events.  
 [NetWars](https://www.sans.org/cyber-ranges/#upcoming-cyber-ranges): NetWars from the SANS Institute hosts CTF competitions at physical locations and award prizes to winning competitors.  
 [OWASP](https://owasp.org/): OWASP has different chapters to join and different meet-ups to attend. It is specifically focused on application and web security.  
 
