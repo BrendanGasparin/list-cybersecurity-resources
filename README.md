@@ -1,5 +1,4 @@
 # Cybersecurity Resources  
-
 A curated list of resources with cybersecurity content.  
 
 ## Educational Sites  
@@ -25,6 +24,17 @@ A curated list of resources with cybersecurity content.
 [ISC2 Certified in Cybersecurity Certification](https://www.isc2.org/Certifications/CC): ISC2 are giving free training and exams for their ISC2 Certified in Cybersecurity certifications. This is a self-paced course that also covers the basics of entry-level cybersecurity.  
 [Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a secuirty career in IT. It is a highly recognised certification in the cybersecurity industry.  
 [Offensive Security Certified Professional](https://learn.offsec.com/cybersecurity-certification-paths): This is a certification with a focus on penetration testing and security. OSCPs can execute real world penetration testing attacks, modify code for their own use, and develophave the mindset of penetration testers.  
+
+## Conferences and Meet-Ups  
+Conferences and meet-ups a great way to network with and learn from other cybersecurity industry professionals.  
+[Black Hat](https://www.blackhat.com/): Black Hat is a cybersecurity and hacking conference with a mainstream, wide audience. Black Hat hosts speakers, workshops, and training courses dedicated to hacking and cybersecurity.  
+[DEFCON](https://defcon.org/): DEFCON is a popular conference on hacking and cybersecurity. It is a great place to network professionally and learn from other people in the cybersecurity industry.  
+[Hackerspaces](https://hackerspaces.org/): Hackerspaces maintains a database of hackerspaces around the world so that you can meet up locally with like-minded hackers, makers, and other types of creators.  
+[ISACA](https://www.isaca.org/): You can become a member of ISACA without being certified.  
+[ISC2](https://www.isc2.org/): In order to become a member of ISC2 you must complete one of their certifications. Otherwise you must pay a fee, or a higher fee, to attend events.  
+[NetWars](https://www.sans.org/cyber-ranges/#upcoming-cyber-ranges): NetWars from the SANS Institute hosts CTF competitions at physical locations and award prizes to winning competitors.  
+[OWASP](https://owasp.org/): OWASP has different chapters to join and different meet-ups to attend. It is specifically focused on application and web security.  
+
 
 ## YouTube Channels  
 [247CTF](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q)  
