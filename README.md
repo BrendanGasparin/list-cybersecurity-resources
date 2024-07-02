@@ -37,7 +37,7 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 
 
 ## YouTube Channels  
-[247CTF](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q)  
+[247CTF](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q): A YouTube channel dedicated to hacking videos and fundamental skills for Capture the Flag games (CTFs).  
 [Attack Detect Defend](https://www.youtube.com/channel/UCywP24ly6h6NTusX88TQKTQ)  
 [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)  
 [Blue Team Village](https://www.youtube.com/channel/UCk4dddMFiso_hgt0ViSPNpQ)  
