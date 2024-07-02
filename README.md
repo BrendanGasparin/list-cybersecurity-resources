@@ -45,6 +45,7 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 [Cyber Incision](https://www.youtube.com/channel/UCeJRBYVsg9jvNbYOh0Tiutg)  
 [Cyber Insecurity](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)  
 [Cyber Mentor, The](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): The Cyber Mentor has a lot of content on ethical hacking, including trimmed-down versions of his paid online courses. He also has content on broader cybersecurity topics.  
+[Cyber Queen](https://www.youtube.com/channel/UCGnOqR-W-L5X-t3btdTTj1Q): Cyber Queen is your cybersecurity bestie. She has content on cybersecurity, certifications, training, and job-hunting.
 [CYBERWOX](https://www.youtube.com/channel/UCY-UlEymdA23eo09U9a0FLA): CYBERWOX has content on cybersecurity topics including breaking into the cybersecurity industry, cybersecurity certifications, a podcast related to cybersecurity stories, and practical content on cybersecurity technologies and training.  
 [Cybersecurity Meg](https://www.youtube.com/channel/UCQiE6iIQr9bNSFaYcFgFYGw)  
 [Cyberspatial](https://www.youtube.com/channel/UC9EX_PSbngZP8pkPWSUpPzw)  
@@ -85,6 +86,7 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 [SecHubb](https://www.youtube.com/channel/UC3GAQgCfYbqbfKuZm9JZPCw)  
 [Security Now](https://www.youtube.com/channel/UCNbqa_9xihC8yaV2o6dlsUg)  
 [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)  
+[SoBatistaCyber](https://www.youtube.com/channel/UCFWARi7HFbPKgO0Q6fShDCQ): A relatively new channel (as of 2024) with content on hacking, cybersecurity, and practical cybersecurity projects like building a home lab.  
 [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)  
 [Study Notes and Theory](https://www.youtube.com/channel/UC-nyf1fw_nq8eHP8md1g-TA)  
 [Tech Raj](https://www.youtube.com/channel/UCY7t-zBYtdj6ZgiRpi3WIYg)  
