@@ -25,6 +25,12 @@ A curated list of resources with cybersecurity content.
 [Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a secuirty career in IT. It is a highly recognised certification in the cybersecurity industry.  
 [Offensive Security Certified Professional](https://learn.offsec.com/cybersecurity-certification-paths): This is a certification with a focus on penetration testing and security. OSCPs can execute real world penetration testing attacks, modify code for their own use, and develophave the mindset of penetration testers.  
 
+## Bug Bounty Platforms  
+Bug bounty platforms crowdsource hackers and penetrations testers and pays them to find bugs in information technology systems.  
+[Bugcrowd](https://bugcrowd.com): Bugcrowd is a security platform that uses bug bounty programs and also offers a variety of penetration testing services.  
+[HackerOne](https://hackerone.com): HackerOne is a company specializing in cybersecurity, and was one of the first companies to embrace crowdsourced security and bug bounties.  
+[Integriti](https://intigriti.com): Integriti is another global crowdsourcing company with a specialization in cybersecurity and agile security testing.  
+
 ## Conferences and Meet-Ups  
 Conferences and meet-ups a great way to network with and learn from other cybersecurity industry professionals.  
 [Black Hat](https://www.blackhat.com/): Black Hat is a cybersecurity and hacking conference with a mainstream, wide audience. Black Hat hosts speakers, workshops, and training courses dedicated to hacking and cybersecurity.  
