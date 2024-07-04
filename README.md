@@ -1,6 +1,12 @@
 # Cybersecurity Resources  
 A curated list of resources with cybersecurity content.  
 
+## Bug Bounty Platforms  
+Bug bounty platforms crowdsource hackers and penetrations testers and pays them to find bugs in information technology systems.  
+[Bugcrowd](https://bugcrowd.com): Bugcrowd is a security platform that uses bug bounty programs and also offers a variety of penetration testing services.  
+[HackerOne](https://hackerone.com): HackerOne is a company specializing in cybersecurity, and was one of the first companies to embrace crowdsourced security and bug bounties.  
+[Integriti](https://intigriti.com): Integriti is another global crowdsourcing company with a specialization in cybersecurity and agile security testing.  
+
 ## Capture The Flag Sites  
 Capture The Flag (CTF) sites provide a way for hackers and penetration testers to test their skills in a legally safe way. By solving cybersecurity problems, users can unlock flags as proof they have completed challenges.  
 [CTFTime](https://ctftime.org): While CTFTime does not itself contain CTF challenges, it is a great resource for finding CTF teams, CTF writeups, and CTF ratings on the hackers and teams who use the platform.  
@@ -9,6 +15,22 @@ Capture The Flag (CTF) sites provide a way for hackers and penetration testers t
 [OverTheWire](https://overthewire.org/wargames/): OverTheWire offers wargame challenges that allow users to learn and practice security concepts in a gamified format. It has an emphasis on the Linux kernel, and hackers must use SSH to connect to exploitable machines and find flags.  
 [picoCTF](https://picoctf.org): picoCTF gamifies hacking with CTF puzzles created by trusted security and privacy experts at Cernegie Mellon University. It is aimed at high school students, but security enthusiasts of all ages can participate.  
 [We Chall](https://wechall.net): As well as hosting their own CTF challenges, We Chall allows users to connect their accounts from other CTF sites to provide a total running score summed from many hacking sites across the Internet.  
+
+## Certifications and Certificates
+[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity): This is a relatively new course on Coursera. It is self-paced and designed to teach the basics of entry-level cybersecurity. Complete this course to get 30% off the COMPTIA Security+ certification exam.  
+[ISC2 Certified in Cybersecurity Certification](https://www.isc2.org/Certifications/CC): ISC2 are giving free training and exams for their ISC2 Certified in Cybersecurity certifications. This is a self-paced course that also covers the basics of entry-level cybersecurity.  
+[Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a secuirty career in IT. It is a highly recognised certification in the cybersecurity industry.  
+[Offensive Security Certified Professional](https://learn.offsec.com/cybersecurity-certification-paths): This is a certification with a focus on penetration testing and security. OSCPs can execute real world penetration testing attacks, modify code for their own use, and develophave the mindset of penetration testers.  
+
+## Conferences and Meet-Ups  
+Conferences and meet-ups a great way to network with and learn from other cybersecurity industry professionals.  
+[Black Hat](https://www.blackhat.com/): Black Hat is a cybersecurity and hacking conference with a mainstream, wide audience. Black Hat hosts speakers, workshops, and training courses dedicated to hacking and cybersecurity.  
+[DEFCON](https://defcon.org/): DEFCON is a popular conference on hacking and cybersecurity. It is a great place to network professionally and learn from other people in the cybersecurity industry.  
+[Hackerspaces](https://hackerspaces.org/): Hackerspaces maintains a database of hackerspaces around the world so that you can meet up locally with like-minded hackers, makers, and other types of creators.  
+[ISACA](https://www.isaca.org/): You can become a member of ISACA without being certified.  
+[ISC2](https://www.isc2.org/): In order to become a member of ISC2 you must complete one of their certifications. Otherwise you must pay a fee, or a higher fee than members, to attend events.  
+[NetWars](https://www.sans.org/cyber-ranges/#upcoming-cyber-ranges): NetWars from the SANS Institute hosts CTF competitions at physical locations and award prizes to winning competitors.  
+[OWASP](https://owasp.org/): OWASP has different chapters to join and different meet-ups to attend. It is specifically focused on application and web security.  
 
 ## Educational Sites  
 [Cybrary](https://cybrary.it/): Cybrary contains a mixture of free and subscription-based content focused on a broad range of cybersecurity related topics.  
@@ -27,29 +49,6 @@ Capture The Flag (CTF) sites provide a way for hackers and penetration testers t
 [Cyberwire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe): The Cyberwire Daily is an excellent podcast for keeping up to date with the latest in cybersecurity news.  
 [ISC StormCast](https://isc.sans.edu/podcast.html): ISC StormCast from the SANS Institute.  
 [Security Now](https://open.spotify.com/show/7vAbYigR3zs8GYJP3EoVWw): A weekly podcast about cybercrime and hacking stories.  
-
-## Certifications and Certificates
-[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity): This is a relatively new course on Coursera. It is self-paced and designed to teach the basics of entry-level cybersecurity. Complete this course to get 30% off the COMPTIA Security+ certification exam.  
-[ISC2 Certified in Cybersecurity Certification](https://www.isc2.org/Certifications/CC): ISC2 are giving free training and exams for their ISC2 Certified in Cybersecurity certifications. This is a self-paced course that also covers the basics of entry-level cybersecurity.  
-[Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a secuirty career in IT. It is a highly recognised certification in the cybersecurity industry.  
-[Offensive Security Certified Professional](https://learn.offsec.com/cybersecurity-certification-paths): This is a certification with a focus on penetration testing and security. OSCPs can execute real world penetration testing attacks, modify code for their own use, and develophave the mindset of penetration testers.  
-
-## Bug Bounty Platforms  
-Bug bounty platforms crowdsource hackers and penetrations testers and pays them to find bugs in information technology systems.  
-[Bugcrowd](https://bugcrowd.com): Bugcrowd is a security platform that uses bug bounty programs and also offers a variety of penetration testing services.  
-[HackerOne](https://hackerone.com): HackerOne is a company specializing in cybersecurity, and was one of the first companies to embrace crowdsourced security and bug bounties.  
-[Integriti](https://intigriti.com): Integriti is another global crowdsourcing company with a specialization in cybersecurity and agile security testing.  
-
-## Conferences and Meet-Ups  
-Conferences and meet-ups a great way to network with and learn from other cybersecurity industry professionals.  
-[Black Hat](https://www.blackhat.com/): Black Hat is a cybersecurity and hacking conference with a mainstream, wide audience. Black Hat hosts speakers, workshops, and training courses dedicated to hacking and cybersecurity.  
-[DEFCON](https://defcon.org/): DEFCON is a popular conference on hacking and cybersecurity. It is a great place to network professionally and learn from other people in the cybersecurity industry.  
-[Hackerspaces](https://hackerspaces.org/): Hackerspaces maintains a database of hackerspaces around the world so that you can meet up locally with like-minded hackers, makers, and other types of creators.  
-[ISACA](https://www.isaca.org/): You can become a member of ISACA without being certified.  
-[ISC2](https://www.isc2.org/): In order to become a member of ISC2 you must complete one of their certifications. Otherwise you must pay a fee, or a higher fee than members, to attend events.  
-[NetWars](https://www.sans.org/cyber-ranges/#upcoming-cyber-ranges): NetWars from the SANS Institute hosts CTF competitions at physical locations and award prizes to winning competitors.  
-[OWASP](https://owasp.org/): OWASP has different chapters to join and different meet-ups to attend. It is specifically focused on application and web security.  
-
 
 ## YouTube Channels  
 [247CTF](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q): A YouTube channel dedicated to hacking videos and fundamental skills for Capture the Flag games (CTFs).  
