@@ -1,6 +1,13 @@
 # Cybersecurity Resources  
 A curated list of resources with cybersecurity content.  
 
+## Capture The Flag Sites  
+Capture The Flag (CTF) sites provide a way for hackers and penetration testers to test their skills in a legally safe way. By solving cybersecurity problems, users can unlock flags as proof they have completed challenges.  
+[Hack The Box](https://hackthebox.com): Hack The Box is a reputable and highly regarded gamified platform for legal hacking, CTFs, upskilling, certification, and talent assessment. Hack The Box labs are constantly updated and allow users to sharpen both offensive and defensive security expertise.   
+[HackThisSite](https://hackthissite.org): HackThisSite is a fee, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, Established in 2003, it is home to a community devoted to learning and sharing ethical hacking knowledge.  
+[picoCTF](https://picoctf.org): picoCTF gamifies hacking with CTF puzzles created by trusted security and privacy experts at Cernegie Mellon University. It is aimed at high school students, but security enthusiasts of all ages can participate.  
+[We Chall](https://wechall.net): As well as hosting their own CTF challenges, We Chall allows users to connect their accounts from other CTF sites to provide a total running score summed from many hacking sites across the Internet.  
+
 ## Educational Sites  
 [Cybrary](https://cybrary.it/): Cybrary contains a mixture of free and subscription-based content focused on a broad range of cybersecurity related topics.  
 [LetsDefend](https://letsdefend.io/):  
