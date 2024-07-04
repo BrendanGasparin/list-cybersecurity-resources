@@ -3,6 +3,7 @@ A curated list of resources with cybersecurity content.
 
 ## Capture The Flag Sites  
 Capture The Flag (CTF) sites provide a way for hackers and penetration testers to test their skills in a legally safe way. By solving cybersecurity problems, users can unlock flags as proof they have completed challenges.  
+[CTFTime](https://ctftime.org): While CTFTime does not itself contain CTF challenges, it is a great resource for finding CTF teams, CTF writeups, and CTF ratings on the hackers and teams who use the platform.  
 [Hack The Box](https://hackthebox.com): Hack The Box is a reputable and highly regarded gamified platform for legal hacking, CTFs, upskilling, certification, and talent assessment. Hack The Box labs are constantly updated and allow users to sharpen both offensive and defensive security expertise.   
 [HackThisSite](https://hackthissite.org): HackThisSite is a fee, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, Established in 2003, it is home to a community devoted to learning and sharing ethical hacking knowledge.  
 [OverTheWire](https://overthewire.org/wargames/): OverTheWire offers wargame challenges that allow users to learn and practice security concepts in a gamified format. It has an emphasis on the Linux kernel, and hackers must use SSH to connect to exploitable machines and find flags.  
