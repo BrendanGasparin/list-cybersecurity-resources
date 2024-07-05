@@ -3,11 +3,15 @@ A curated list of resources with cybersecurity content.
 
 ## Bug Bounty Platforms  
 Bug bounty platforms crowdsource hackers and penetrations testers and pays them to find bugs in information technology systems.  
+  
+Bug bounty platforms crowdsource hackers and penetrations testers and pays them to find bugs in information technology systems.  
 [Bugcrowd](https://bugcrowd.com): Bugcrowd is a security platform that uses bug bounty programs and also offers a variety of penetration testing services.  
 [HackerOne](https://hackerone.com): HackerOne is a company specializing in cybersecurity, and was one of the first companies to embrace crowdsourced security and bug bounties.  
 [Integriti](https://intigriti.com): Integriti is another global crowdsourcing company with a specialization in cybersecurity and agile security testing.  
 
 ## Capture The Flag Sites  
+Capture The Flag (CTF) sites provide a way for hackers and penetration testers to test their skills in a legally safe way. By solving cybersecurity problems, users can unlock flags as proof they have completed challenges.  
+  
 Capture The Flag (CTF) sites provide a way for hackers and penetration testers to test their skills in a legally safe way. By solving cybersecurity problems, users can unlock flags as proof they have completed challenges.  
 [CTFTime](https://ctftime.org): While CTFTime does not itself contain CTF challenges, it is a great resource for finding CTF teams, CTF writeups, and CTF ratings on the hackers and teams who use the platform.  
 [Hack The Box](https://hackthebox.com): Hack The Box contains a series of challenges designed to enhance cybersecurity skills by simulating real-world attack scenarios. Hack the Box has a strong community, hosts competitive CTF challenges, and has a ranking system to help users show their skills to potential employers. It contains both free and subscription-based content. Hack The Box labs are constantly updated and allow users to sharpen both offensive and defensive security expertise.  
@@ -16,7 +20,9 @@ Capture The Flag (CTF) sites provide a way for hackers and penetration testers t
 [picoCTF](https://picoctf.org): picoCTF gamifies hacking with CTF puzzles created by trusted security and privacy experts at Cernegie Mellon University. It is aimed at high school students, but security enthusiasts of all ages can participate.  
 [We Chall](https://wechall.net): As well as hosting their own CTF challenges, We Chall allows users to connect their accounts from other CTF sites to provide a total running score summed from many hacking sites across the Internet.  
 
-## Certifications and Certificates
+## Certifications and Certificates  
+If you want a career in cybersecurity, it doesn't hurt to get some certificates and certifications.  
+  
 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity): This is a relatively new course on Coursera. It is self-paced and designed to teach the basics of entry-level cybersecurity. Complete this course to get 30% off the COMPTIA Security+ certification exam.  
 [ISC2 Certified in Cybersecurity Certification](https://www.isc2.org/Certifications/CC): ISC2 are giving free training and exams for their ISC2 Certified in Cybersecurity certifications. This is a self-paced course that also covers the basics of entry-level cybersecurity.  
 [Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a security career in IT. It is a highly recognised certification in the cybersecurity industry.  
@@ -24,6 +30,7 @@ Capture The Flag (CTF) sites provide a way for hackers and penetration testers t
 
 ## Conferences and Meet-Ups  
 Conferences and meet-ups a great way to network with and learn from other cybersecurity industry professionals.  
+
 [Black Hat](https://www.blackhat.com/): Black Hat is a cybersecurity and hacking conference with a mainstream, wide audience. Black Hat hosts speakers, workshops, and training courses dedicated to hacking and cybersecurity.  
 [DEFCON](https://defcon.org/): DEFCON is a popular conference on hacking and cybersecurity. It is a great place to network professionally and learn from other people in the cybersecurity industry.  
 [Hackerspaces](https://hackerspaces.org/): Hackerspaces maintains a database of hackerspaces around the world so that you can meet up locally with like-minded hackers, makers, and other types of creators.  
@@ -33,11 +40,15 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 [OWASP](https://owasp.org/): OWASP has different chapters to join and different meet-ups to attend. It is specifically focused on application and web security.  
 
 ## Educational Sites  
+The following sites are eductional resources on cybersecurity and hacking.  
+  
 [Cybrary](https://cybrary.it/): Cybrary contains a mixture of free and subscription-based content focused on a broad range of cybersecurity related topics.  
 [LetsDefend](https://letsdefend.io/):  
 [tryHackMe](https://tryhackme.com): TryHackMe contains "rooms" on various cybersecurity, hacking, computers, and networking topics. Some of the material is free, and some is subscription-based. An excellent site with learning paths for beginners, intermediate, and advanced learners.  
 
 ## News  
+Cybersecurity news. Check in daily to keep up to date on the latest threats and vulnerabilities.  
+
 [BleepingComputer](https://www.bleepingcomputer.com/): A website dedicated to cybersecurity and technology news and support.  
 [Cyberwire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe): The Cyberwire Daily is an excellent podcast for keeping up to date with the latest in cybersecurity news.  
 [grugq's newsletter, the](https://buttondown.email/grugq):  
@@ -46,11 +57,15 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 [Security Now](https://open.spotify.com/show/7vAbYigR3zs8GYJP3EoVWw): A weekly podcast about cybercrime and hacking stories.  
 
 ## Podcasts  
+Podcasts focused on the cybersecurity industry.  
+
 [Cyberwire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe): The Cyberwire Daily is an excellent podcast for keeping up to date with the latest in cybersecurity news.  
 [ISC StormCast](https://isc.sans.edu/podcast.html): ISC StormCast from the SANS Institute.  
 [Security Now](https://open.spotify.com/show/7vAbYigR3zs8GYJP3EoVWw): A weekly podcast about cybercrime and hacking stories.  
 
 ## YouTube Channels  
+YouTube channels with content devoted to cybersecurity, hacking, and penetration testing.  
+
 [247CTF](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q): A YouTube channel dedicated to hacking videos and fundamental skills for Capture the Flag games (CTFs).  
 [Attack Detect Defend](https://www.youtube.com/channel/UCywP24ly6h6NTusX88TQKTQ)  
 [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)  
