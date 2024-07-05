@@ -19,7 +19,7 @@ Capture The Flag (CTF) sites provide a way for hackers and penetration testers t
 ## Certifications and Certificates
 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity): This is a relatively new course on Coursera. It is self-paced and designed to teach the basics of entry-level cybersecurity. Complete this course to get 30% off the COMPTIA Security+ certification exam.  
 [ISC2 Certified in Cybersecurity Certification](https://www.isc2.org/Certifications/CC): ISC2 are giving free training and exams for their ISC2 Certified in Cybersecurity certifications. This is a self-paced course that also covers the basics of entry-level cybersecurity.  
-[Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a secuirty career in IT. It is a highly recognised certification in the cybersecurity industry.  
+[Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a security career in IT. It is a highly recognised certification in the cybersecurity industry.  
 [Offensive Security Certified Professional](https://learn.offsec.com/cybersecurity-certification-paths): This is a certification with a focus on penetration testing and security. OSCPs can execute real world penetration testing attacks, modify code for their own use, and develophave the mindset of penetration testers.  
 
 ## Conferences and Meet-Ups  
